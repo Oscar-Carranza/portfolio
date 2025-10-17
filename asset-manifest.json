@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/portfolio/static/js/main.af396140.js",
+    "main.js": "/portfolio/static/js/main.355d29c1.js",
     "static/js/453.724d51a8.chunk.js": "/portfolio/static/js/453.724d51a8.chunk.js",
-    "static/media/gtbc.jpg": "/portfolio/static/media/gtbc.94bcb605ae2d000690ca.jpg",
     "static/media/electric_grid.jpeg": "/portfolio/static/media/electric_grid.a148fa34d2e3d1edbb06.jpeg",
+    "static/media/oscar_carranza.jpg": "/portfolio/static/media/oscar_carranza.0f0ba54e8ace061fece0.jpg",
     "static/media/hv_battery.jpg": "/portfolio/static/media/hv_battery.a69840d450c3d05d48f0.jpg",
-    "static/media/oscar_carranza.jpg": "/portfolio/static/media/oscar_carranza.c5ae6b9480201d8ed2a4.jpg",
+    "static/media/collaboration.jpg": "/portfolio/static/media/collaboration.fafbb98a4f3748bd7202.jpg",
     "static/media/ford_logo.png": "/portfolio/static/media/ford_logo.f2a1c9bb42e9d824e578.png",
     "static/media/cfe_logo.png": "/portfolio/static/media/cfe_logo.3c9bb6b64706a03f74bb.png",
     "index.html": "/portfolio/index.html",
     "main.e6c13ad2.css.map": "/portfolio/static/css/main.e6c13ad2.css.map",
-    "main.af396140.js.map": "/portfolio/static/js/main.af396140.js.map",
+    "main.355d29c1.js.map": "/portfolio/static/js/main.355d29c1.js.map",
     "453.724d51a8.chunk.js.map": "/portfolio/static/js/453.724d51a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.af396140.js"
+    "static/js/main.355d29c1.js"
   ]
 }
