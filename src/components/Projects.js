@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import electric_grid from '../images/electric_grid.jpeg';
-import gtbc from '../images/gtbc.jpg';
+import collaboration from '../images/collaboration.jpg';
 import hv_battery from '../images/hv_battery.jpg';
 
 const Section = styled.section`
@@ -79,7 +79,7 @@ const data = [
   { 
     title: 'Ford Learns', 
     text: 'Developed a global platform to share Lessons Learned and Best Practices related to vehicle programs across Ford Motor Company along different business units and stages of the Global Product Development System (GPDS).', 
-    image: gtbc, alt:'GTBC building',
+    image: collaboration, alt:'GTBC building',
     skills:['PostgreSQL','FastAPI', 'React', 'GitHub', 'Tekton', 'Qlik Sense']
   },
   { 

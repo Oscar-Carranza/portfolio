@@ -52,11 +52,12 @@ function About({ id }){
           <PortraitImg src={portrait} alt="Portrait of Oscar"/>
         </PortraitWrap>
         <Bio>
-          <p>With a 3-years eperience in software development and data analytics, my expertise includes:</p>
+          <p>With a 4-years experience in software development and data analytics, my expertise includes:</p>
           <ul>
             <li>Web development of Single-Page Applications in React </li>
             <li>API REST using FastAPI connecting SQL-databases</li>
             <li>Data Analysis in Python and R </li>
+            <li>Mixed-integer programming for optimization problems</li>
           </ul>
           <p>I thrive in collaborative environments to drive innovation and achieve project goals with excellence. </p>
         </Bio>
