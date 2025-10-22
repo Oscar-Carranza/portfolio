@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import electric_grid from '../images/electric_grid.jpeg';
-import collaboration from '../images/collaboration.jpg';
+import ami_mobile from '../images/ami_mobile.png';
 import hv_battery from '../images/hv_battery.jpg';
 
 const Section = styled.section`
@@ -77,10 +77,10 @@ const data = [
     skills:['PostgreSQL','FastAPI', 'SQLAlchemy', 'Pydantic', 'React', 'Cloud Run', 'Cloud Storage', 'BigQuery', 'Azure', 'Docker', 'Terraform']
   },
   { 
-    title: 'Ford Learns', 
-    text: 'Developed a global platform to share Lessons Learned and Best Practices related to vehicle programs across Ford Motor Company along different business units and stages of the Global Product Development System (GPDS).', 
-    image: collaboration, alt:'GTBC building',
-    skills:['PostgreSQL','FastAPI', 'React', 'GitHub', 'Tekton', 'Qlik Sense']
+    title: 'AMI mobile', 
+    text: 'Developed a mobile application for internal use at Comisión Federal de Electricidad, streamlining the reading of billing and measurement variables of commercial AMI-meters.', 
+    image: ami_mobile, alt:'logo of AMI mobile app',
+    skills:['Java','SQL', 'Android', 'GitHub', 'UI in XML']
   },
   { 
     title: 'Power System Flow Analyzer', 
