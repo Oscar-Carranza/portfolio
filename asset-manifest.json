@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/portfolio/static/js/main.375b1f41.js",
+    "main.js": "/portfolio/static/js/main.eb52956c.js",
     "static/js/453.724d51a8.chunk.js": "/portfolio/static/js/453.724d51a8.chunk.js",
     "static/media/electric_grid.jpeg": "/portfolio/static/media/electric_grid.a148fa34d2e3d1edbb06.jpeg",
     "static/media/oscar_carranza.jpg": "/portfolio/static/media/oscar_carranza.0f0ba54e8ace061fece0.jpg",
@@ -11,11 +11,11 @@
     "static/media/ami_mobile.png": "/portfolio/static/media/ami_mobile.9a1cb07eb3375f3a07a2.png",
     "index.html": "/portfolio/index.html",
     "main.e6c13ad2.css.map": "/portfolio/static/css/main.e6c13ad2.css.map",
-    "main.375b1f41.js.map": "/portfolio/static/js/main.375b1f41.js.map",
+    "main.eb52956c.js.map": "/portfolio/static/js/main.eb52956c.js.map",
     "453.724d51a8.chunk.js.map": "/portfolio/static/js/453.724d51a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.375b1f41.js"
+    "static/js/main.eb52956c.js"
   ]
 }
