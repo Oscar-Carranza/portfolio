@@ -86,7 +86,7 @@ const data = [
     title: 'Power System Flow Analyzer', 
     text: 'Built a power flow analysis tool (generalized for n-buses) aiding planners to optimize grid loading and reliability, including power generation, transformers, transmission lines, and loads.', 
     image: electric_grid, alt:'Transmission lines picture',
-    skills:['Python','Numpy', 'Pandas', 'Matplotlib', 'Seaborn']
+    skills:['Python','Numpy', 'Pandas', 'Matplotlib']
   }
 ];
 

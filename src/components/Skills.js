@@ -70,6 +70,7 @@ function Skills({ id }){
     'SQLAlchemy',
     'Pydantic',
     'Java',
+    'C# .NET',
     'SQL'
   ];
 
